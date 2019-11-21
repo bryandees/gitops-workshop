@@ -1,0 +1,2 @@
+# gitops-workshop
+KubeCon Training
